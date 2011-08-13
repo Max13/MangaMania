@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="icns">res/MangaMania.icns</file>
+        <file alias="png">res/MangaMania.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file alias="ambi">res/ambiance.mp3</file>
+    </qresource>
+    <qresource prefix="/app">
+        <file alias="converter2.0_win.exe">res/converter2.0_win.exe</file>
+    </qresource>
+</RCC>

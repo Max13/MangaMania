@@ -18,9 +18,11 @@ If you want to install this app from source, you first need to install [Qt Frame
 After that, you obviously need to download the app sources (maybe you already have), and compile them.
 
 Usually, from a terminal or command-prompt:
-```cd MangaMania_Sources_Dir
+```shell
+cd MangaMania_Sources_Dir
 qmake
-make or mingw32-make```
+make or mingw32-make
+```
 
 Then launch the "MangaMania.app" or "MangaMania.exe" or "MangaMania" executable, depending on your platform.
 

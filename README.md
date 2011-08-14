@@ -19,9 +19,9 @@ After that, you obviously need to download the app sources (maybe you already ha
 
 Usually, from a terminal or command-prompt:
 
-    cd MangaMania_Sources_Dir
-    qmake
-    make or mingw32-make
+    $ cd MangaMania_Sources_Dir
+    $ qmake
+    $ make or mingw32-make
 
 Then launch the "MangaMania.app" or "MangaMania.exe" or "MangaMania" executable, depending on your platform.
 
